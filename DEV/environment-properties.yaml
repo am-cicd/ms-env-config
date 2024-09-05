@@ -4,7 +4,6 @@ environment:
 
 # Top levels paths to APIs on ESB
 internal:
-  apis:
   listener:
     host: 0.0.0.0
     port: 8081
